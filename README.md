@@ -12,8 +12,6 @@
 ![](https://img.shields.io/badge/Docker-informational?style=flat&color=informational&logo=docker)
 ![](https://img.shields.io/badge/Tailwind-informational?style=flat&color=informational&logo=tailwindcss)
 
-## 💻 My team project
-https://github.com/BinaryStudioAcademy/bsa-2022-autoline
 <!--
 **brovarenko/brovarenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
